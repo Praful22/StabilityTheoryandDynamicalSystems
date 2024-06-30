@@ -1,3 +1,3 @@
 # WORK IN PROGRESS
 # StabilityTheoryandDynamicalSystems
-A repository containing stability theory and dynamical systems theory with engineering applications. 
+A repository containing stability theory relating to dynamical systems with engineering applications.
